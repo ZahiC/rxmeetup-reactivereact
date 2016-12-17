@@ -1,0 +1,23 @@
+{
+  "name": "reactive-react",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.8.3"
+  },
+  "dependencies": {
+    "firebase": "^3.6.3",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "recompose": "^0.20.2",
+    "rx-dom": "^7.0.3",
+    "rx-firebase": "^0.4.0",
+    "rxjs": "^5.0.0-rc.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

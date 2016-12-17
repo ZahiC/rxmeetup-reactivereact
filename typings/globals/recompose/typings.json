@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/96e0dfcf7c1d7328eb9c3c1a210358fd2c6086f9/recompose/recompose.d.ts",
+    "raw": "registry:dt/recompose#0.20.2+20160930120758",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/96e0dfcf7c1d7328eb9c3c1a210358fd2c6086f9/recompose/recompose.d.ts"
+  }
+}

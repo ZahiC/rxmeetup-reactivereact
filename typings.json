@@ -1,0 +1,7 @@
+{
+  "globalDependencies": {
+    "firebase": "registry:dt/firebase#2.4.1+20160412125105",
+    "recompose": "registry:dt/recompose#0.20.2+20160930120758",
+    "rx-dom": "registry:dt/rx-dom#2.5.3+20160820093154"
+  }
+}
